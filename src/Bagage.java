@@ -48,7 +48,6 @@ public class Bagage {
             System.out.println(spisok.get(i));
 
             }
-        System.out.println("==============");
         while (flag) {
             flag = false;
             for (j = 0; j < spisok.size() - 1; j++) {
